@@ -12,3 +12,4 @@
 
 
 ## When you open the html file then you will see the code for this file
+#### To acess the class videos [Click here](https://bit.ly/2VAT8y7)
